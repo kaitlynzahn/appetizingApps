@@ -1,7 +1,0 @@
-{
-  "name": "appetizingApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
